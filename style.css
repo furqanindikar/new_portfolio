@@ -1,0 +1,218 @@
+
+body {
+    background-image: url("pexels-simon-berger-1323550.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+
+.navbar-brand{
+    color: #a76170;
+    font-size: 2.8rem;
+    font-weight: bolder;
+    margin-left: 8%;
+}
+
+.nav-item{
+    color: #a76170;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.collapse{
+    margin-left: 20%;
+}
+
+.nav-link{
+    color: rgb(102, 13, 103);
+}
+
+.knowmore{
+    background-color: rgb(102, 13, 103);
+    color: aliceblue;
+    font-size: 1.8rem;
+}
+#hero {
+    width: 100%;
+    margin-top: 12%;
+    margin-left: 5%;
+    color: #a76170;
+    margin-bottom: 20%;
+    height: 100vh;
+}
+
+.name{
+    font-weight: bolder;
+    font-size: 4rem;
+    margin-right: 15%;
+}
+
+.aboutme{
+    text-align: center;
+}
+
+#aboutme{
+    background-color: #8d617a;
+    color: white;
+    padding-bottom: 5%;
+    opacity: 0.8;
+    margin-bottom: 10%;
+}
+
+.auto-type {
+    color: white;
+}
+
+.aboutme h1{
+    background-color: rgb(102, 13, 103);
+    border-radius: 0px 0px 10px 10px;
+    margin: auto;
+    color: white;
+    width: 20vh;
+    
+    margin-bottom: 5%
+}
+
+.aboutme p{
+    margin: 0% 15% 5% 15%;
+    line-height: 2rem;
+}
+
+.aboutme h2 span{
+    color: rgb(102, 13, 103);
+}
+
+.aboutme h2{
+    margin-bottom: 5%;
+}
+
+#education{
+    padding-bottom: 10%;
+}
+
+.education h1{
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-decoration-line: overline underline;
+}
+
+.education{
+    height: 100%;
+}
+
+.row{
+    text-align: center;
+    margin: 0% 1% 0% 1%;
+}
+.card{
+    border-radius: 10px;
+   
+    text-align: center;
+    background-color: white;
+    color: #a76170;
+    margin: 5% 0% 5% 0%;
+}
+
+#skills h1{
+    background-color: rgb(102, 13, 103);
+    border-radius: 0px 0px 10px 10px;
+    margin: auto;
+    color: white;
+    width: 30vh;
+    text-align: center;
+    margin-bottom: 8%
+}
+
+.skillb{
+    text-align: left;
+    line-height: 2rem;
+}
+#skills{
+    background-color: #8d617a;
+    color: white;
+    padding-bottom: 5%;
+    opacity: 0.8;
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+.skillb h3{
+    font-size: 2rem;
+    color: black;
+    font-weight: bolder;
+}
+
+.skillbr{
+    text-align: left;
+    line-height: 2rem;
+    font-size: 1.3rem;
+
+}
+
+.slide{
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    height: 50vh;
+    border-radius: 20px;
+    margin-bottom: 20%;
+}
+
+.carousel-inner{
+    border-radius: 20px;
+    
+}
+
+#projects{
+    margin-bottom: 35%;
+}
+
+#links{
+    background-color: #a76170;
+    padding-bottom: 2%;
+    opacity: 0.8;
+}
+#links h1{
+    background-color: rgb(102, 13, 103);
+    border-radius: 0px 0px 10px 10px;
+    margin: auto;
+    color: white;
+    width: 30vh;
+    text-align: center;
+    padding-bottom: 2%;
+    margin-bottom: 10%
+    
+}
+
+
+.icon{
+    text-align: center;
+    font-size: 1.3rem;
+    color: aliceblue;
+    padding-bottom: 5%;
+}
+
+.endline{
+    border: none;
+    height: 3px;
+    background-color: aliceblue;
+}
+
+.copyright{
+    text-align: center;
+    color: beige;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.slinks{
+    color: white;
+    text-decoration: none;
+}
+.slinks:hover {
+    color: black;
+}
